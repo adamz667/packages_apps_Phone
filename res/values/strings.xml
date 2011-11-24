@@ -1672,4 +1672,7 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
+
+    <string name="phone_number_label">My phone number</string>
+    <string name="phone_number_summary">Set the phone number for this device</string>
 </resources>
