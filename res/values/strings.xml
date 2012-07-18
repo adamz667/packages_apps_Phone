@@ -1674,7 +1674,14 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
-
+    
+    <!-- Add phone number -->
     <string name="phone_number_label">My phone number</string>
     <string name="phone_number_summary">Set the phone number for this device</string>
+
+    <!-- Noise suppression -->
+    <string name="noise_suppression_title">Noise suppression</string>
+    <string name="noise_suppression_summary">Enable noise suppression for calls</string>
+    <!-- End Noise suppression -->
+
 </resources>
